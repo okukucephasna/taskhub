@@ -1,7 +1,3 @@
-Sure! Here's a **human-sounding GitHub README** for your **TaskHub** project — a full-stack task management web app using **Flask**, **PostgreSQL**, and **React**:
-
----
-
 ## 📝 TaskHub
 
 **TaskHub** is a simple yet powerful task management app built with Flask (Python) on the backend and React (JavaScript) on the frontend. The goal is to provide users with a clean, intuitive interface for organizing their tasks — whether it's for personal productivity or team collaboration.
